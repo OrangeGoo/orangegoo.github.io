@@ -65,4 +65,8 @@ lazyload:
 wordcloud:
   enable: true
 
-reward: false
+reward:
+  enable: false
+
+footer:
+  since: 2021
