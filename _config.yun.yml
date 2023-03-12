@@ -1,0 +1,68 @@
+avatar:
+  enable: true
+  url: /images/avatar.jpeg # 你的头像图片地址
+  rounded: true
+  opacity: 1
+  mickey_mouse: false
+  status:
+    enable: true
+    emoji: 😭
+    message: 不想起床
+
+social:
+  - name: GitHub
+    link: https://github.com/OrangeGoo?tab=repositories
+    icon: ri:github-line
+    color: "#6e5494"
+  - name: 网易云音乐
+    link: https://music.163.com/#/user/home?id=411228832
+    icon: ri:netease-cloud-music-line
+    color: "#C10D0C"
+  - name: 哔哩哔哩动画
+    link: https://space.bilibili.com/628684713?spm_id_from=333.1007.0.0
+    icon: ri:bilibili-line
+    color: "#FF8EB3"
+
+banner:
+  enable: true
+  title: OrangeGoo的小站
+  border: true
+  cloud:
+    enable: true
+    color: white
+  go_down:
+    enable: true
+    icon: ri:arrow-down-s-line
+
+notice:
+  enable: true
+  content: Thanks for reading my articles.
+
+fireworks:
+  enable: true
+  colors:
+    - "102, 167, 221"
+    - "62, 131, 225"
+    - "33, 78, 194"
+
+medium_zoom: true
+
+pages:
+
+post_meta:
+  item_text: false
+  created_at: true
+  updated_at: true
+  categories: true
+  tags: true
+
+codeblock:
+  copy_btn: true
+
+lazyload:
+  enable: true
+
+wordcloud:
+  enable: true
+
+reward: false
